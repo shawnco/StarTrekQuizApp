@@ -9,3 +9,5 @@ The app demonstrates my knowledge of
 * Using state via `remember`
 
 Right now the layout only really works in portrait mode. Rotating to landscape mode doesn't look so good yet.
+
+Starfleet logo is from CleanPNG: https://www.cleanpng.com/free/starfleet.html
