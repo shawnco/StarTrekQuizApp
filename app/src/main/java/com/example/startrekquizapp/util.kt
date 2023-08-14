@@ -34,7 +34,7 @@ object Constants {
         return listOf(
             Starship(1, "Enterprise", "NX-01", "The first warp five capable starship"),
             Starship(2, "Enterprise", "NCC-1701", "The Constitution class flagship of the Federation from 2245-2285"),
-            Starship(3, "Enterprise", "NCC-1701", "The Galaxy class flagship of the Federation from 2362-2371"),
+            Starship(3, "Enterprise", "NCC-1701-D", "The Galaxy class flagship of the Federation from 2362-2371"),
             Starship(4, "Defiant", "NX-74205", "The first ship of a class designed to fight the Borg, stationed at Deep Space Nine")
         )
     }
